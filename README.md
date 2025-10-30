@@ -55,11 +55,11 @@ SELECT
     SALARY,  
     '<span class="delete-icon fa fa-trash-o" data-emp_id="' || EMP_ID || '"></span>' AS DELETE_ACTION  
 FROM EMPLOYEES;
-
+```
 
 **For Composite Primary Keys:**
 
-SELECT   
+```sqlSELECT   
     CPT_ID,  
     TEST_ID,  
     PARAMETER_ID,  
@@ -69,7 +69,7 @@ SELECT
            data-test_id="' || TEST_ID || '"   
            data-parameter_id="' || PARAMETER_ID || '"></span>' AS DELETE_ACTION  
 FROM COMMENTS_TEST_PARAMETER;
-
+---
 **Step 2: Configure Report Column**
 
 Edit the DELETE_ACTION column
@@ -77,7 +77,7 @@ Edit the DELETE_ACTION column
 Set Type → Display as Text
 
 Set Escape Special Characters → No
-
+---
 
 **Step 3: Create Dynamic Action**
 
@@ -104,9 +104,9 @@ Show Confirmation: Yes (optional)
 Delete Icon Class: fa-trash-o (default, optional)
 
 Icon CSS Class: delete-icon (default, optional)
-
+---
 **Step 4: Set Region Static ID**
-
+---
 ⭐ **Star**
 
 If you find this plugin useful, please consider giving it a star ⭐
