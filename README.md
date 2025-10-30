@@ -3,15 +3,15 @@
 A powerful and easy-to-use Oracle APEX Dynamic Action plugin that enables seamless row deletion in Interactive Reports and Classic Reports with customizable confirmation dialogs, success/error messages, and smooth animations.
 Features
 
-Easy Integration: Simple setup with minimal configuration
-Interactive & Classic Reports: Works with both report types
-Composite Primary Keys: Supports multiple primary key columns
-Customizable Messages: Configure success, error, and confirmation messages
-Visual Feedback: Smooth animations and loading indicators
-Automatic Refresh: Auto-refreshes the region after deletion
-Security: Built-in SQL injection prevention
-No Page Reload: AJAX-based deletion without full page refresh
-Flexible Icon Support: Use any Font Awesome icon for the delete action
+Easy Integration: Simple setup with minimal configuration  
+Interactive & Classic Reports: Works with both report types  
+Composite Primary Keys: Supports multiple primary key columns  
+Customizable Messages: Configure success, error, and confirmation messages  
+Visual Feedback: Smooth animations and loading indicators  
+Automatic Refresh: Auto-refreshes the region after deletion  
+Security: Built-in SQL injection prevention  
+No Page Reload: AJAX-based deletion without full page refresh  
+Flexible Icon Support: Use any Font Awesome icon for the delete action  
 
 **Demo**
 [View Demo](https://www.linkedin.com/posts/muhammad-sajid-0590a5120_oracleapex-lowcode-plugindevelopment-activity-7382403775245991936-9-X2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB3pzAUBkctXn1sXWVI2RXIA7A_YlmUTxco)
