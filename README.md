@@ -72,7 +72,9 @@ SELECT
            data-parameter_id="' || PARAMETER_ID || '"></span>' AS DELETE_ACTION  
 FROM COMMENTS_TEST_PARAMETER;
 
+
 ---
+
 
 ## **Step 2: Configure Report Column**
 
