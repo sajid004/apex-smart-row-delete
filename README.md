@@ -1,22 +1,8 @@
 \# Smart Row Delete - Oracle APEX Plugin
 
-
-
-\[!\[APEX Version](https://img.shields.io/badge/APEX-19.2%2B-blue.svg)](https://apex.oracle.com)
-
-\[!\[License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-\[!\[PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-
-
-
 A powerful and easy-to-use Oracle APEX Dynamic Action plugin that enables seamless row deletion in Interactive Reports and Classic Reports with customizable confirmation dialogs, success/error messages, and smooth animations.
 
-
-
 \## Features
-
-
 
 \- \*\*Easy Integration\*\*: Simple setup with minimal configuration
 
@@ -39,21 +25,14 @@ A powerful and easy-to-use Oracle APEX Dynamic Action plugin that enables seamle
 
 
 \## Demo
+https://www.linkedin.com/posts/muhammad-sajid-0590a5120_oracleapex-lowcode-plugindevelopment-activity-7382403775245991936-9-X2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB3pzAUBkctXn1sXWVI2RXIA7A_YlmUTxco
 
-
-
-!\[Smart Row Delete Demo](docs/screenshots/demo.gif)
 
 
 
 \## Requirements
-
-
-
-\- Oracle APEX 19.2 or higher
-
+\- Oracle APEX 23.1 or higher
 \- Oracle Database 11g or higher
-
 \- Font Awesome icons (included in APEX by default)
 
 
