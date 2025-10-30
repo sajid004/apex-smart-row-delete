@@ -74,7 +74,7 @@ FROM COMMENTS_TEST_PARAMETER;
 
 ---
 
-**Step 2: Configure Report Column**
+## **Step 2: Configure Report Column**
 
 Edit the DELETE_ACTION column
 
