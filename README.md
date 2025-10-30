@@ -60,7 +60,8 @@ FROM EMPLOYEES;
 
 **For Composite Primary Keys:**
 
-```sqlSELECT   
+```sql
+SELECT   
     CPT_ID,  
     TEST_ID,  
     PARAMETER_ID,  
@@ -70,7 +71,9 @@ FROM EMPLOYEES;
            data-test_id="' || TEST_ID || '"   
            data-parameter_id="' || PARAMETER_ID || '"></span>' AS DELETE_ACTION  
 FROM COMMENTS_TEST_PARAMETER;
+
 ---
+
 **Step 2: Configure Report Column**
 
 Edit the DELETE_ACTION column
