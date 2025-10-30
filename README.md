@@ -55,6 +55,7 @@ SELECT
     SALARY,  
     '<span class="delete-icon fa fa-trash-o" data-emp_id="' || EMP_ID || '"></span>' AS DELETE_ACTION  
 FROM EMPLOYEES;
+
 ```
 
 **For Composite Primary Keys:**
